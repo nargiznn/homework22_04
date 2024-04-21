@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/Eterna.bundle.scp.css"
     },
     {
+      "Id": "/Users/nergiznadirli/Desktop/hmwork22_04/Eterna/Eterna/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
       "Id": "/Users/nergiznadirli/Desktop/hmwork22_04/Eterna/Eterna/wwwroot/css/style.css",
       "PackagePath": "staticwebassets/css/style.css"
     },

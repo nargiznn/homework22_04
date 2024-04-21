@@ -11,6 +11,9 @@ namespace Eterna.Data
 
         }
         public DbSet<Feature> Features { get; set; }
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<Project> Projects { get; set; }
+        public DbSet<ProjectImage> ProjectImages { get; set; }
     }
 }
 

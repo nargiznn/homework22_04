@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6HNbifUe2YCU/a4bThB9DPuKR+dM9PvstCAcAdpZs/4=",
+  "Hash": "udzuKK3SQoXbWiUbWvTfaBQN7xGtb2bgb+/x2ARUQ5o=",
   "Source": "Eterna",
   "BasePath": "_content/Eterna",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/nergiznadirli/Desktop/hmwork22_04/Eterna/Eterna/obj/Debug/net6.0/scopedcss/projectbundle/Eterna.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/nergiznadirli/Desktop/hmwork22_04/Eterna/Eterna/wwwroot/.DS_Store",
+      "SourceId": "Eterna",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nergiznadirli/Desktop/hmwork22_04/Eterna/Eterna/wwwroot/",
+      "BasePath": "_content/Eterna",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
     },
     {
       "Identity": "/Users/nergiznadirli/Desktop/hmwork22_04/Eterna/Eterna/wwwroot/css/style.css",
