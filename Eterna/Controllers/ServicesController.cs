@@ -1,12 +1,25 @@
 ﻿using System;
+using Eterna.Data;
+using Eterna.ViewsModel;
+using Microsoft.AspNetCore.Mvc;
+
 namespace Eterna.Controllers
 {
-	public class ServicesController
+	public class ServicesController:Controller
 	{
+        private AppDbContext _context;
+        public ServicesController(AppDbContext context)
+        {
+            _context = context;
+        }
         public IActionResult Index()
         {
-            
-            return View();
+            ServicesViewModel serviveVM = new ServicesViewModel
+            {
+               Services=_context.Services.ToList()
+            };
+            return View(serviveVM);
+
         }
     }
 }

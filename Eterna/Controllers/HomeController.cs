@@ -20,6 +20,7 @@ public class HomeController : Controller
             Features = _context.Features.ToList()
         };
         return View(homeVM);
+        
     }
 
 }
