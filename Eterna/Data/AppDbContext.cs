@@ -15,7 +15,7 @@ namespace Eterna.Data
         public DbSet<Project> Projects { get; set; }
         public DbSet<ProjectImage> ProjectImages { get; set; }
         public DbSet<Service> Services { get; set; }
-
+        public DbSet<Team> Teams { get; set; }
        
     }
 }
